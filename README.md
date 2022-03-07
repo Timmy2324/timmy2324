@@ -5,8 +5,13 @@
  - 📖 I`m constantly learning something new
  - 🏀 Sometimes i play basketball
 
+## My projects
+ - [UI for hacker news](https://timmy2324.github.io/ui-hacker-news/)
+ - [To Do List](https://timmy2324.github.io/react-to-do-list/) in progress
+ - [Social Network](https://github.com/Timmy2324/react-social-network) in progress
+ - [Counter](https://github.com/Timmy2324/react-counter) in progress
 
-### Languages and Tools
+## Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb)
 ![Redux](https://img.shields.io/badge/-Redux-20232a?style=flat&logo=redux&logoColor=593d88)
@@ -18,8 +23,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-20232a?style=flat&logo=Jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/-Confluence-20232a?style=flat&logo=confluence&logoColor=172B4D)
 
-### Connect with me
+## Connect with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-20232a?style=flat&logo=Telegram&logoColor=26A5E4)](https://t.me/timmy2324)
 [![Habr](https://img.shields.io/badge/-Habr-20232a?style=flat&logo=Habr&logoColor=65A3BE)](https://career.habr.com/timmy2324)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-20232a?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/timur-salikhov-3b1982233/)
+[![VK](https://img.shields.io/badge/-VK-20232a?style=flat&logo=VK&logoColor=0A66C2)](https://vk.com/id178910802)
